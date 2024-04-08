@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23",
+    "redux": "^5.0.1"
+  }
+}
